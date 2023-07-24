@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "629510756520",
+    "project_id": "photogenie-app",
+    "storage_bucket": "photogenie-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629510756520:android:d43835158d70452b80ca9d",
+        "android_client_info": {
+          "package_name": "com.example.photogenie_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629510756520-hg5optimrj1a00htclje9vefpocv4chl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiZ5e1IH0NtT2hvi0qgi3TKZee4TH8E_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629510756520-cb5omb7ececs1flelb9uovsq9l7q9eiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
